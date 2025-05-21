@@ -46,5 +46,6 @@ python main.py
 
 # OR run with GUI + voice assistant
 python main1.py
+
 📚 Documentation & Report
 Detailed documentation is available in the project report Phase 5-TEAM 1.pdf, including system design, testing, and future improvements.
